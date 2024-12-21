@@ -1,0 +1,15 @@
+/workspaces/lista-extra/bin/Debug/net8.0/lista-extra
+/workspaces/lista-extra/bin/Debug/net8.0/lista-extra.deps.json
+/workspaces/lista-extra/bin/Debug/net8.0/lista-extra.runtimeconfig.json
+/workspaces/lista-extra/bin/Debug/net8.0/lista-extra.dll
+/workspaces/lista-extra/bin/Debug/net8.0/lista-extra.pdb
+/workspaces/lista-extra/obj/Debug/net8.0/lista-extra.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/lista-extra/obj/Debug/net8.0/lista-extra.AssemblyInfoInputs.cache
+/workspaces/lista-extra/obj/Debug/net8.0/lista-extra.AssemblyInfo.cs
+/workspaces/lista-extra/obj/Debug/net8.0/lista-extra.csproj.CoreCompileInputs.cache
+/workspaces/lista-extra/obj/Debug/net8.0/lista-extra.sourcelink.json
+/workspaces/lista-extra/obj/Debug/net8.0/lista-extra.dll
+/workspaces/lista-extra/obj/Debug/net8.0/refint/lista-extra.dll
+/workspaces/lista-extra/obj/Debug/net8.0/lista-extra.pdb
+/workspaces/lista-extra/obj/Debug/net8.0/lista-extra.genruntimeconfig.cache
+/workspaces/lista-extra/obj/Debug/net8.0/ref/lista-extra.dll
