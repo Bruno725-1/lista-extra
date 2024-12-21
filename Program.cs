@@ -1,7 +1,6 @@
 ﻿using System;
 class Program {
     public static void Main(){
-        Console.WriteLine("Digite a temperatura a ser convertida em graus centígrados");
-        int 
+        Ex1.Rodar();
     }
 }
