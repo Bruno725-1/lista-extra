@@ -8,7 +8,7 @@ class Ex2 {
             for(int i = 1; i <= num; i++) {
                 fat *= i;
             }
-            Console.WriteLine(fat);
+            Console.WriteLine($"O fatorial de {num} é: {fat}");
         }
         catch (System.FormatException) {
             Console.WriteLine("Entrada inválida. Digite um número.");
